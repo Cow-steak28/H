@@ -1,7 +1,10 @@
 
 
-At ClassroomCommunity.com, we are dedicated to fostering a vibrant and inclusive community within classrooms. Our platform is designed for students and educators to connect, share, and grow in a supportive environment. Here, you can engage with your peers, access educational resources, enjoy entertaining content, and find a relaxing space tailored to enhance your learning experience. Join our community today and enrich your educational journey with meaningful connections and endless learning opportunities!
+no one wants games blocked so share this round and email me for help. 
 
+
+
+you know who i am 
 This website is powered by Interstellar code, a project licensed under the GNU Affero General Public License (AGPL) Version 3, dated 19 November 2007. Our modifications and additional source code are available under the same license and can be accessed at GitHub.
 
 ## ClassroomCommunity modifications:
